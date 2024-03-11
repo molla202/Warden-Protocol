@@ -5,7 +5,9 @@
 
 
 
-> Hedge, zincir üzerindeki çoklu imza yetenekleri ve Akıllı Sözleşme Güvenlik Analizi katmanı sayesinde benzersiz işlem güvenliği sağlar.
+> Unlock the Potential of Intent-Based, Secure Cross-Chain Interactions
+
+
 
  * [Topluluk kanalımız](https://t.me/corenodechat)<br>
  * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
